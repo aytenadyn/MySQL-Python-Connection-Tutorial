@@ -5,7 +5,7 @@ Create & Access MySQL database using Python
 
 Objectives
 
-After completing this lab you will be able to:
+After completing this tutorial you will be able to:
 
 *   Create a database
 *   Create a table
